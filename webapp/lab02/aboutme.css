@@ -1,0 +1,32 @@
+body{
+  background-color: #1D2475;
+  color: #939396;
+}
+p{
+  font - family: sans-serif;
+  font-size: 70%;
+}
+u1{
+  font-size: 70%;
+}
+h1{
+  font-size: 40pt;
+  font-weight: bold;
+  color: #F7931E;
+}
+h2{
+  font-size: 40pt;
+  font-weight: bold;
+}
+h3{
+  color: #D1DFEB;
+  text-align: justify;
+}
+p::first-letter{
+  font-size: 150%;
+  font-weight: bold;
+}
+a:link a:visite{
+  color: #FF4F4F;
+  overflow: 
+}
